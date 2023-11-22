@@ -9,5 +9,9 @@ package com.mycompany.herenciaytipos.Ejemplos.Especializacion;
  * @author nenod
  */
 class Urologo extends Medico{
+
+    void examenDeProstata() {
+    System.out.println("El urologo examina la prostata del paciente");
+    }
     
 }

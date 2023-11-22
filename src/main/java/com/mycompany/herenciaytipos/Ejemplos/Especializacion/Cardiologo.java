@@ -10,6 +10,6 @@ package com.mycompany.herenciaytipos.Ejemplos.Especializacion;
  */
 public class Cardiologo extends Medico{
  public void consultaCardiologica(){
-     System.out.println("El medico cardiologo examina el corazon del paciente con sus" +instrumentos);
+     System.out.println("El medico cardiologo examina el corazon del paciente con sus " +instrumentos);
  }   
 }

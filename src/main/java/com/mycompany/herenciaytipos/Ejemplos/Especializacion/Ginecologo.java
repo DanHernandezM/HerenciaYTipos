@@ -9,5 +9,9 @@ package com.mycompany.herenciaytipos.Ejemplos.Especializacion;
  * @author nenod
  */
 class Ginecologo extends Medico {
+
+    void examenGinecologico() {
+    System.out.println("El ginecologo realiza un examen exploratorio a la paciente");   
+    }
     
 }

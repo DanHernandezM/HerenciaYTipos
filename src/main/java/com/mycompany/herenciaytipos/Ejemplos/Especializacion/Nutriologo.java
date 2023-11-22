@@ -9,5 +9,9 @@ package com.mycompany.herenciaytipos.Ejemplos.Especializacion;
  * @author nenod
  */
 class Nutriologo extends Medico {
+
+    void planDeDieta() {
+    System.out.println("El nutriologo le realiza un plan de dieta al paciente");   
+    }
     
 }

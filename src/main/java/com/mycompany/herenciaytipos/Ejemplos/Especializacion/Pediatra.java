@@ -9,5 +9,9 @@ package com.mycompany.herenciaytipos.Ejemplos.Especializacion;
  * @author nenod
  */
 class Pediatra extends Medico {
+
+    void atenderNiños() {
+   System.out.println("El pediatra atiende a los niños");
+    }
     
 }
