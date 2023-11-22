@@ -14,8 +14,7 @@ public class Planeadores extends Avion{
 	private String material;
 	private String tamaño;
 	
-	public void Correr() {
-		
+	public void Correr() {	
 	}
 	
 	public void Soltar() {
